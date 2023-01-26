@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "91262837066",
+    "project_id": "ticket-app-e6b70",
+    "storage_bucket": "ticket-app-e6b70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91262837066:android:06556923a858672acce1b3",
+        "android_client_info": {
+          "package_name": "com.example.movieticketbookingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "91262837066-446g755cvo8qtjahb64hvosk31a1c637.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRAhNvlYx__UNslh362RjNUhgD77TPwjY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "91262837066-446g755cvo8qtjahb64hvosk31a1c637.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
